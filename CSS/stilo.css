@@ -13,3 +13,12 @@ img{
     display: block;
     margin: auto;
 }
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.k1, .k2, .k3{
+    width: 60px;
+    height: 60px;
+    background-color: darkgrey;
+}
